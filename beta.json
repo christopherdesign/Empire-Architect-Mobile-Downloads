@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "package": "org.empirearchitect.mobile",
+  "channel": "beta",
+  "version_code": 306,
+  "version": "0.3.6-beta",
+  "certificate_sha256": "70167f3f6805b1f9b2875c774bdf9890dcc969e81ef4ff3761a1891d5b1e66da",
+  "sha256": "0f77cd4804dc6e298522df846764dbfbfb4071a64208d48e81477f19a47de5b3",
+  "apk_size": 26049353,
+  "apk_url": "https://github.com/christopherdesign/Empire-Architect-Mobile-Downloads/releases/download/v0.3.6-beta/EmpireArchitect-Mobile-v0.3.6-beta.apk",
+  "rollout_percent": 100,
+  "paused": false,
+  "notes": "Beta 0.3.6: Popup-Menüs, deutlichere Dichtestufen und kommunale Kreditsteuerung. Automatisiert geprüft; Samsung-Abnahme dieser Version steht aus. Vor dem Update den Spielstand exportieren. Vorhandene App aktualisieren, nicht deinstallieren."
+}

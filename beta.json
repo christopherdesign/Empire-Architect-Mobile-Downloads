@@ -2,13 +2,13 @@
   "schema": 1,
   "package": "org.empirearchitect.mobile",
   "channel": "beta",
-  "version_code": 307,
-  "version": "0.3.7-beta",
+  "version_code": 308,
+  "version": "0.3.8-beta",
   "certificate_sha256": "70167f3f6805b1f9b2875c774bdf9890dcc969e81ef4ff3761a1891d5b1e66da",
-  "sha256": "281f8a4f3bd0cdc0e83166c15f950ac4acc449cd4f1239b10b296dd0f58bac2c",
-  "apk_size": 26057700,
-  "apk_url": "https://github.com/christopherdesign/Empire-Architect-Mobile-Downloads/releases/download/v0.3.7-beta/EmpireArchitect-Mobile-v0.3.7-beta.apk",
+  "sha256": "07fe5ee761671ec54903fd2a05e4d9d6ed777fba12235761bcd4fec54311d4ba",
+  "apk_size": 26070157,
+  "apk_url": "https://github.com/christopherdesign/Empire-Architect-Mobile-Downloads/releases/download/v0.3.8-beta/EmpireArchitect-Mobile-v0.3.8-beta.apk",
   "rollout_percent": 100,
   "paused": false,
-  "notes": "Beta 0.3.7: Kompakte Oberfläche, direkte Zeit- und Kamerasteuerung sowie Bauvorschau mit Bestätigung. Grundstücksdetails auf Wunsch. Spielstände bleiben kompatibel. Automatisiert geprüft; Samsung-Test dieser Version steht aus. Vor dem Update speichern/exportieren; vorhandene App aktualisieren."
+  "notes": "Beta 0.3.8: Straßenabschnitte und rechteckige Bauflächen per Ziehen planen, Gesamtkosten prüfen und gemeinsam bestätigen. Zweifingerkamera, Einfinger-Kameramodus und sofortige Rücknahme des unveränderten letzten Bauauftrags. 379 automatisierte Prüfbedingungen/Testmethoden und 30 Linux-Renderansichten; Samsung-Test dieser Version steht aus. Vor Update speichern/exportieren, App nicht deinstallieren."
 }
